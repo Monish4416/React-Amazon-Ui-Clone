@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Amazon-Ui-Clone/static/css/main.33ad64c5.css",
+    "main.js": "/React-Amazon-Ui-Clone/static/js/main.3371f79a.js",
+    "static/media/indianflag.png": "/React-Amazon-Ui-Clone/static/media/indianflag.4b788f496128dc637418.png",
+    "static/media/Amazon.webp.png": "/React-Amazon-Ui-Clone/static/media/Amazon.webp.caf7b722c3ddb07b7db6.png",
+    "index.html": "/React-Amazon-Ui-Clone/index.html",
+    "main.33ad64c5.css.map": "/React-Amazon-Ui-Clone/static/css/main.33ad64c5.css.map",
+    "main.3371f79a.js.map": "/React-Amazon-Ui-Clone/static/js/main.3371f79a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ad64c5.css",
+    "static/js/main.3371f79a.js"
+  ]
+}
